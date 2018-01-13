@@ -1,3 +1,4 @@
 # hello-world
 My first repository
-Cool fajnie jest ogółem luz spox xD
+My name is Jakub Marcinkowski. I'm 16 and i love music <3
+Hello Sugar Labs
